@@ -1,0 +1,9 @@
+package com.example.algamoney.api.exceptionhandler;
+
+import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
+
+@ControllerAdvice // observa toda a app
+public class AlgamoneyExceptionHandler extends ResponseEntityExceptionHandler {
+
+}
