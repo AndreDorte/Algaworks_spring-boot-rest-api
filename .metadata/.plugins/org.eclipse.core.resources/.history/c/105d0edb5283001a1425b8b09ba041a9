@@ -1,0 +1,5 @@
+package com.example.algamoney.api.listener;
+
+public class RecursoCriadoListener {
+
+}
