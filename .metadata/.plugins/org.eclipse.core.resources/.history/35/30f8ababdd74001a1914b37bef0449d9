@@ -1,8 +1,0 @@
-package com.example.algamoney.api.model;
-
-public class Pessoa {
-
-	private Long codigo;
-	
-	private String nome;
-}
