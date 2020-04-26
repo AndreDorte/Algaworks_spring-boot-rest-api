@@ -7,5 +7,3 @@ spring.jpa.show-sql=true
 
 # Jackson > biblioteca responsável por fazer a conversão entre Json e objetos Java, e vice-versa
 spring.jackson.deserialization.fail-on-unknown-properties=true
-
-spring.jackson.date-format=yyyy-MM-dd
